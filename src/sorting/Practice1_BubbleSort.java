@@ -4,7 +4,7 @@ package sorting;
 */
 
 import java.util.Arrays;
-public class Practice1 {
+public class Practice1_BubbleSort {
     public static void main(String args[]){
 
         //testing our bubble sort method in Java

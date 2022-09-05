@@ -7,7 +7,7 @@ Read the IDs and the grades for all Programming I students. Computer and print t
  */
 
 import java.util.Scanner;
-public class Practice10 {
+public class Practice10_StudentAverage {
     public static void main(String args[]){
         Scanner id = new Scanner(System.in);
 

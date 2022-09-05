@@ -1,11 +1,10 @@
 package array;
-
 /** Description:
-Passing two-dimensional array to a function
+    Passing two-dimensional array to a function
  */
 
 import java.util.Scanner;
-public class Practice16 {
+public class Practice16_2DArrayFunction {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 

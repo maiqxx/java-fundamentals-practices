@@ -4,7 +4,7 @@ package sorting;
  * */
 
 import java.util.Scanner;
-public class Practice2 {
+public class Practice2_BubbleSortDescending {
     public static void main(String []args){
 
         int num, i, j, temp;

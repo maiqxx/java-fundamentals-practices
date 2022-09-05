@@ -1,7 +1,7 @@
 package array;
 /**Description:
  *
- 1. Program to print all negative elements in array. Program must do the following;
+   Program to print all negative elements in array. Program must do the following;
  - Program must accept the size of the array coming from the user.
  - Enter number either positive or negative as to limit to the size being entered;
  and
@@ -9,7 +9,7 @@ package array;
  */
 
 import java.util.Scanner;
-public class Practice6 {
+public class Practice6_PrintNegatives {
     public static void main(String args[]){
         Scanner userIn = new Scanner(System.in);
 

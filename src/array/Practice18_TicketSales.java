@@ -7,7 +7,7 @@ package array;
  */
 
 import java.util.Scanner;
-public class Practice18 {
+public class Practice18_TicketSales {
     public static void main(String args[]){
         int days = 5, price = 2;
         int i, j, sum = 0;

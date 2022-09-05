@@ -1,10 +1,10 @@
 package array;
 /**Description:
-  1. Java program that will print the sum of the numbers that has been input by user
+    Java program that will print the sum of the numbers that has been input by user
  */
 
 import java.util.Scanner;
-public class Practice2 {
+public class Practice2_SumOfElements {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
 

@@ -1,10 +1,10 @@
 package array;
 /**Description:
- * 2. Program to find the average of n (n &lt; 5) numbers using arrays.
+ * Program to find the average of n (n &lt; 5) numbers using arrays.
  */
 
 import java.util.Scanner;
-public class Practice3 {
+public class Practice3_Average {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
 

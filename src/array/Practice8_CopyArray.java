@@ -1,10 +1,10 @@
 package array;
 /**Description:
-Program to copy array elements to another array
+    Program to copy array elements to another array
  */
 
 import java.util.Scanner;
-public class Practice8 {
+public class Practice8_CopyArray {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
 

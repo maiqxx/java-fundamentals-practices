@@ -4,7 +4,7 @@ package sorting;
  */
 
 import java.util.Scanner;
-public class Practice6 {
+public class Practice6_InsertionSortDescending {
     public static void main(String args[]){
         int i, j = 0, count, key = 0;
 

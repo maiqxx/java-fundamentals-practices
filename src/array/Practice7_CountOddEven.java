@@ -1,10 +1,10 @@
 package array;
 /**Description:
-Program to count even and odd elements in array
+    Program to count even and odd elements in array
  */
 
 import java.util.Scanner;
-public class Practice7 {
+public class Practice7_CountOddEven {
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in);
 

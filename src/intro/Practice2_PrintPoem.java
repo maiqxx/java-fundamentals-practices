@@ -1,6 +1,6 @@
 package intro;
 
-public class Practice2 {
+public class Practice2_PrintPoem {
     public static void main(String[] args){
         System.out.println("Computers, computers everywhere");
         System.out.println("   As far as I can see");

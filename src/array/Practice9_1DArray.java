@@ -1,16 +1,16 @@
 package array;
 /**Description:
-Reversing a One-Dimensional Array: Write a Java Program that reads an integer one
- dimensional array of size N. The program then reverses the elements of the array and
- stores them in reverse order in the same array.
- For example, if the elements of the array are:
- 33 20 2 88 97 5 71
- The elements of the array after reversal should be:
- 71 5 97 88 2 20 33
+     Reversing a One-Dimensional Array: Write a Java Program that reads an integer one
+     dimensional array of size N. The program then reverses the elements of the array and
+     stores them in reverse order in the same array.
+     For example, if the elements of the array are:
+     33 20 2 88 97 5 71
+     The elements of the array after reversal should be:
+     71 5 97 88 2 20 33
  */
 
 import java.util.Scanner;
-public class Practice9 {
+public class Practice9_1DArray {
     public static void main(String args[]){
         Scanner scan = new Scanner(System.in);
 

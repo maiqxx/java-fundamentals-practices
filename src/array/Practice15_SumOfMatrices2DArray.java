@@ -1,11 +1,10 @@
 package array;
-
 /**Description:
-Sum of two matrices using Two dimensional arrays
+    Sum of two matrices using Two dimensional arrays
  */
 
 import java.util.Scanner;
-public class Practice15 {
+public class Practice15_SumOfMatrices2DArray {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 

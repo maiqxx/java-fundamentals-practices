@@ -4,7 +4,7 @@ Java program that identifies if it is odd or even.
  */
 
 import java.util.Scanner;
-public class Practice4 {
+public class Practice4_OddEven {
     public static void main(String args []){
         Scanner sc = new Scanner(System.in);
 

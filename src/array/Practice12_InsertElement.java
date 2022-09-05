@@ -1,11 +1,10 @@
 package array;
 /**Description:
-Program to insert an element in an Array
- *
+    Program to insert an element in an Array
  */
 
 import java.util.Scanner;
-public class Practice12 {
+public class Practice12_InsertElement {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 

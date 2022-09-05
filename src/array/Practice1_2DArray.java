@@ -7,7 +7,7 @@ package array;
  */
 
 import java.util.Scanner;
-public class Practice1 {
+public class Practice1_2DArray {
     public static void main(String args[]){
         // declaring variable
         int row, col, i, j = 0;

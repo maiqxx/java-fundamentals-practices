@@ -1,10 +1,10 @@
 package array;
 /**Description:
-Program to print the largest and second largest element of the array.
+    Program to print the largest and second largest element of the array.
  */
 
 import java.util.Scanner;
-public class Practice11 {
+public class Practice11_2LargestElements {
     public static void main (String args[]){
 
         int size;

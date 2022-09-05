@@ -1,7 +1,6 @@
 package array;
 
 /**Description:
- * 12.
  * 1. Menu Driven
  * 2. Enter no. of rows and columns(decision)
  * 3. Enter elements
@@ -11,7 +10,7 @@ package array;
  */
 
 import java.util.Scanner;
-public class Practice17 {
+public class Practice17_MenuDriven {
     public static void lower(int matrix[][],
                              int row, int col)
     {

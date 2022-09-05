@@ -1,12 +1,12 @@
 package array;
 /**Description:
- Suppose there are 20 students in a class. Each student obtains marks in range 0-100.
- Write a program to count number of students in following groups.
- Poor (0-25), Average (26-50), Good (51-75), Excellent (76-100).
+     Suppose there are 20 students in a class. Each student obtains marks in range 0-100.
+     Write a program to count number of students in following groups.
+     Poor (0-25), Average (26-50), Good (51-75), Excellent (76-100).
  */
 
 import java.util.Scanner;
-public class Practice13 {
+public class Practice13_GroupStudentsByGrade {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
 

@@ -1,11 +1,11 @@
 package array;
 /**Description:
-Two Dimensional Array to store and print values.
- Java program to store temperature of two cities for a week and display it.
+    Two Dimensional Array to store and print values.
+     Java program to store temperature of two cities for a week and display it.
  */
 
 import java.util.Scanner;
-public class Practice14 {
+public class Practice14_Temperature2DArray {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 

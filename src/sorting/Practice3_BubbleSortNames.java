@@ -4,7 +4,7 @@ package sorting;
  */
 
 import java.util.Scanner;
-public class Practice3 {
+public class Practice3_BubbleSortNames {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
 

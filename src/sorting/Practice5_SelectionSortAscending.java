@@ -4,7 +4,7 @@ package sorting;
  */
 
 import java.util.Scanner;
-public class Practice5 {
+public class Practice5_SelectionSortAscending {
     public static void main(String args[]){
         int count, temp;
 

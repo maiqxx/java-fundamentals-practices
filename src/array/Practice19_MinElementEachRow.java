@@ -1,9 +1,9 @@
 package array;
 /**Description:
- * Perform a matrix, the task is to find the minimum element of each row and each column.
+    Perform a matrix, the task is to find the minimum element of each row and each column.
  */
 
-public class Practice19 {
+public class Practice19_MinElementEachRow {
     public static void minInRow(int matrix[][], int n, int m) {
 
         //finding the minimum element of each row.

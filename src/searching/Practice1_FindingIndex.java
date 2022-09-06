@@ -1,6 +1,6 @@
 package searching;
 
-public class Practice1 {
+public class Practice1_FindingIndex {
     public static void main(String[] args) {
 
         int array[] = {10, 13, 25, 42, 50, 28, 72, 63}; //data inside an array

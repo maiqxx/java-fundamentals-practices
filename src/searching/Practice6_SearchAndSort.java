@@ -6,7 +6,7 @@ package searching;
  */
 
 import java.util.Scanner;
-public class Practice6 {
+public class Practice6_SearchAndSort {
     public static void main(String args[]){
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the number of elements: ");

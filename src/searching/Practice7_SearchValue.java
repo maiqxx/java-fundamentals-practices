@@ -1,7 +1,7 @@
 package searching;
 
 import java.util.Scanner;
-public class Practice7 {
+public class Practice7_SearchValue {
     public static void main(String args[])
     {
         int c, n, search, array[];

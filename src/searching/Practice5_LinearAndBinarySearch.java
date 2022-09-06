@@ -5,7 +5,7 @@ package searching;
  */
 
 import java.util.Scanner;
-public class Practice5 {
+public class Practice5_LinearAndBinarySearch {
     public static void main(String args[]){
         int i, num, key, first, last, mid;  //declaring variables
 
